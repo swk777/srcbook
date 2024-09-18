@@ -1,5 +1,11 @@
 # @srcbook/web
 
+## 0.0.6
+
+### Patch Changes
+
+- 98ffcb3: Improve mermaid rendering
+
 ## 0.0.5
 
 ### Patch Changes
