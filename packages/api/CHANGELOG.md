@@ -1,5 +1,11 @@
 # @srcbook/api
 
+## 0.0.6
+
+### Patch Changes
+
+- 23494ad: Update generate Srcbook prompt with mermaid instructions
+
 ## 0.0.5
 
 ### Patch Changes
