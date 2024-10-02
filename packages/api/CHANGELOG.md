@@ -1,5 +1,11 @@
 # @srcbook/api
 
+## 0.0.8
+
+### Patch Changes
+
+- a063c46: Fix uncaught exceptions in TsServer event handlers after srcbook deletion
+
 ## 0.0.7
 
 ### Patch Changes
